@@ -1,0 +1,2 @@
+Parses the play-by-play data into possession data that can be used to calculated RAPM (Regularized Adjusted Plus Minus)
+which is a ridge regression with the points on a play as the regressand and dummy variables for each player as the regressors 
